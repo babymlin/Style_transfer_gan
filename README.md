@@ -1,4 +1,4 @@
-# Tensorflow Neural style transfer
+# style transfer by 尹相志老師課程
 
 #### GAN 風格轉移
 ![image](https://github.com/babymlin/Style_transfer_gan/blob/main/final_result.jpg?raw=true)
